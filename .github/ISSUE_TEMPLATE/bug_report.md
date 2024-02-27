@@ -1,5 +1,5 @@
 ---
-name: 버그 리포트
+name: 🐞버그 리포트
 about: 소프트웨어에서 발견된 버그를 보고하고 싶을 때 사용하세요.
 title: "[Bug] "
 labels: "bug"

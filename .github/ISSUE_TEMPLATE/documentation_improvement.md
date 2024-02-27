@@ -1,5 +1,5 @@
 ---
-name: 문서 개선 요청
+name: ✏️문서 개선 요청
 about: 문서 개선 아이디어가 있을 때 사용하세요.
 title: "[Docs] "
 labels: "documentation"

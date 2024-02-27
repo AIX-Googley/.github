@@ -1,5 +1,5 @@
 ---
-name: 기능 추가
+name: ✨기능 추가
 about: 새로운 기능을 제안하고 싶을 때 사용하세요.
 title: "[Feature] "
 labels: "feature"
