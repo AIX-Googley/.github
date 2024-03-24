@@ -1,4 +1,5 @@
 # CodeClimX
+![logo](https://github.com/AIX-Googley/.github/assets/114536581/c7cc4d4b-9952-46bb-be07-60e8ca20dfa8)
 
 ### 소개
 
